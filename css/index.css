@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/c2.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*width: 100%;*/
+    /*position: fixed;*/
+}
+#top-word{}
+.one{
+    width: 70%;
+    background: rgba(0,0,0,0.3);
+    text-align: center;
+    padding: 80px 0;
+    margin: 110px auto;
+}
+.words{
+    margin: 10px 0;
+    font-family:"微软雅黑";
+    color: white;
+}
+h1{
+    font-size: 35px;
+    font-weight: 500;
+
+}
+#top-word span{
+    font-size: 20px;
+}
+/*section*/
+.two {
+    width: 90%;
+    background:rgba(255,255,255,0.9);
+    margin: 200px auto;
+}
+#chart{height: 400px;margin: auto;}
